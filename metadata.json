@@ -1,8 +1,7 @@
 {
   "name": "Bella Massa - Pizzaria Artesanal",
-  "description": "Um site moderno e convidativo para uma pizzaria artesanal, com menu completo, promoções, depoimentos e integração com WhatsApp. Otimizado para GitHub Pages.",
+  "description": "Um site moderno e convidativo para uma pizzaria artesanal, com menu completo, promoções, depoimentos e integração com WhatsApp.",
   "requestFramePermissions": [
     "geolocation"
-  ],
-  "version": "1.0.1"
+  ]
 }
